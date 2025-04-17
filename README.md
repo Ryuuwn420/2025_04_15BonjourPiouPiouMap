@@ -1,2 +1,2 @@
 # 2025_04_15BonjourPiouPiouMap
-travail de groupe
+travail de groupe sur une map via git package

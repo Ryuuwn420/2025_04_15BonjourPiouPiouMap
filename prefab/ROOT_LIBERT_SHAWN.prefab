@@ -120,7 +120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6528003984284645811}
   m_Layer: 0
-  m_Name: Shawn_Libert
+  m_Name: ROOT_LIBERT_SHAWN
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
